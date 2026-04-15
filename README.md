@@ -1,4 +1,4 @@
-# Regime-Aware Flux Estimation over Heterogeneous Surfaces
+# Regime-aware and Physically Guided Learning for Surface Turbulent Flux Estimation over Heterogeneous Land Surface
 
 Code repository for the paper: **"Regime-aware and Physically Guided Learning for Surface Turbulent Flux Estimation over Heterogeneous Land Surface"**
 
